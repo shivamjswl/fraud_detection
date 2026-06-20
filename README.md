@@ -1,2 +1,2 @@
-# fraud_detection
+# Credit Card fraud_detection
 Building a machine learning model for fraud detection
